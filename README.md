@@ -7,7 +7,7 @@
 
 🛠️LANGUAGES AND TOOLS
 
-💻   Python  C++  JSON  Bash
+💻   Python  C++  JSON   Bash
 
 🌐   HTML5 CSS 
 
